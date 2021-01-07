@@ -6,8 +6,8 @@ This is for storing a demo project of batch 26 training for mobile applicaiton d
 ## Profile Screen
 |Feature|Description|
 |:--:|:--:|
-|iOS View|[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-01-05-at-16-39-22.png](https://i.postimg.cc/G3KDW5Tp/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-01-05-at-16-39-22.png)](https://postimg.cc/Z0903jck)|
-|Anroid View|[![Screenshot-1609882661.png](https://i.postimg.cc/KcD7ZYwx/Screenshot-1609882661.png)](https://postimg.cc/F11kphhB)|
+|iOS Simulator View|[![Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-01-07-at-14-21-27.png](https://i.postimg.cc/MGkKw72s/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-01-07-at-14-21-27.png)](https://postimg.cc/Snrp7zK8)|
+|Anroid Emulator View|[![Screenshot-1610047292.png](https://i.postimg.cc/ZYDmZ86r/Screenshot-1610047292.png)](https://postimg.cc/kD8zvt14)|
 
 ## Before release
 - [x] Finish my changes
